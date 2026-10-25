@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="553f1812-6848-45d2-9d44-a6618856490f" name="Changes" comment="khmer-writing-corrector[start up]" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/vornone/khmer-writing-corrector.git",
@@ -57,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792948058332</updated>
-      <workItem from="1792948059355" duration="321000" />
+      <workItem from="1792948059355" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="khmer-writing-corrector[start up]">
       <option name="closed" value="true" />
@@ -75,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792948247130</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="khmer-writing-corrector[start up]">
+      <option name="closed" value="true" />
+      <created>1792948392069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792948392069</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,16 +98,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="khmer-writing-corrector[start up]" />
     <option name="LAST_COMMIT_MESSAGE" value="khmer-writing-corrector[start up]" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
